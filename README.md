@@ -1,6 +1,6 @@
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Saimon! A passionate, programming.
+  Hi 👋, I'm Saimon!
 
   - 🌱  I’m currently studying Software engineer.
 
