@@ -7,15 +7,6 @@
   - 🔭I am currently seeking my inaugural professional opportunity, aspiring to contribute to substantial projects in the future.
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 23 years old, currently living in Brazil. I have basic in English and have experience intermediary with SQL, JavaScript, Html/Css, PHP, Análise de dados. 
-
-  - ⚡  I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details>
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Saimon-Reis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
