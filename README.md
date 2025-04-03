@@ -2,7 +2,7 @@
 <p>
   Hi 👋, I'm Saimon! A passionate, programming.
 
-  - 🌱  I’m currently studying Software engineering end Unicesumar.
+  - 🌱  I’m currently studying Software engineer.
 
   - 🔭I am currently seeking my inaugural professional opportunity, aspiring to contribute to substantial projects in the future.
 </p>
