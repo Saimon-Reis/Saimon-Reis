@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Saimon!
 
 - 🌱 I’m currently studying **Software Engineering**.  
-- 🔭 I am currently seeking my inaugural professional opportunity, aspiring to contribute to substantial projects in the future.
+- 🔭 I am seeking my inaugural professional opportunity, aspiring to contribute to substantial projects in the future.
 
 ---
 
